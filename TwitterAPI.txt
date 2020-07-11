@@ -1,0 +1,18 @@
+Tiwtter API Kwaz990
+
+API
+9CdP5ODjeCyT4kNWbkyvo13XS
+
+API Secret
+vslbOEeTTLUjKedmT7Mkb9MBGBrrJ8bHNDuYn5AX2I58WjfdsD
+
+Bearer Token 
+AAAAAAAAAAAAAAAAAAAAAH6uFwEAAAAAFbdydiwXv5pg%2F8WJaYcJs9M3eTw%3DN5AX4FRxzXifohJCePv6VEDMWLazlUETHRacXA7fiAl8aDCzgJ
+
+Access token
+22669732-hniecW89vTM8Hyi2voU5MNqXBMEF6qdTGwBeC0Zny
+
+
+
+Access token secret
+Ltsj90B7moR0qZ2oNTBlbe3F3oyJRwL3qY6vt3XEC4EzU
